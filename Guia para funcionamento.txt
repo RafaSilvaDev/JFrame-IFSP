@@ -1,0 +1,9 @@
+Para o funcionamento da aplicação é necessário:
+
+- world.sql
+    O arquivo pode ser encontrado aqui: https://dev.mysql.com/doc/index-other.html;
+    Procurar por 'world database' (sem ser o 'world_x').
+
+- XAMPP ou MYSQL server para hospedagem do banco de dados na máquina local.
+
+- Desenvolvido utilizando IntelliJ.
