@@ -7,3 +7,5 @@ Para o funcionamento da aplicação é necessário:
 - XAMPP ou MYSQL server para hospedagem do banco de dados na máquina local.
 
 - Desenvolvido utilizando IntelliJ.
+
+- Para carregar dependencias do 'pom.xml', no IntelliJ, utilize as teclas  ->   * Ctrl+Shift+O *
